@@ -1,0 +1,12 @@
+.classes-container {
+  height: 300px;
+  max-width: 100%;
+  background: white;
+  background-image: url('../../asset/image/study.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px 0;
+}

@@ -1,0 +1,32 @@
+.assignment-wrapper {
+  width: 100%;
+}
+.assignment-container {
+  padding: 25px;
+  border-radius: 20px;
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  margin: 10px 0;
+  background-color: white;
+}
+
+.assignment-header {
+  display: flex;
+  justify-content: space-between;
+}
+.assignment-header h1,
+h3 {
+  margin: 0;
+}
+h3 {
+  margin: 10px 0;
+}
+
+.assignment-summary {
+  margin: 10px 0px;
+}
+
+.assignment-due-date {
+  margin: 10px 0;
+}

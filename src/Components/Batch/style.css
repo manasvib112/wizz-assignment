@@ -1,0 +1,27 @@
+.batch-wrapper,
+.batch-container {
+  max-width: 100%;
+}
+.batch-container {
+  position: relative;
+  border-radius: 20px;
+  background-color: white;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.batch-header span {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  background-color: var(--theme-green);
+  padding: 2px 15px;
+  color: white;
+  border-radius: 20px 20px 20px 0;
+}
+
+.batch-details {
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-between;
+}

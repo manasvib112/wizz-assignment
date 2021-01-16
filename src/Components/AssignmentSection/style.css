@@ -1,0 +1,11 @@
+.assignment-section-wrapper {
+  width: 100%;
+}
+.assignment-section-container {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 30px;
+}

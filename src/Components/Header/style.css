@@ -1,0 +1,26 @@
+@import '../../Styles/color.css';
+
+.header-wrapper {
+  height: 60px;
+  width: 100%;
+  display: flex;
+
+  margin-top: 12px;
+  /* background-color: pink; */
+}
+.header-container {
+  padding: 10px 0;
+  display: flex;
+  width: 100%;
+  height: auto;
+  align-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header.left {
+  color: var(--heading);
+  font-size: 1.6rem;
+  font-weight: 700;
+  font-family: 'Comfortaa', cursive;
+}
