@@ -1,3 +1,7 @@
+# Website Deployed
+
+The project is deployed at the following url https://wizz-app-manasvi.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
