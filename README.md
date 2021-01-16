@@ -1,4 +1,4 @@
-# Website Deployed
+# Projrct Deployment
 
 The project is deployed at the following url https://wizz-app-manasvi.web.app/
 
