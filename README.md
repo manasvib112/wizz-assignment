@@ -1,4 +1,8 @@
-# Projrct Deployment
+# Github Repo
+
+Github repository : https://github.com/manasvib112/wizz-assignment/
+
+# Project Deployment
 
 The project is deployed at the following url https://wizz-app-manasvi.web.app/
 
