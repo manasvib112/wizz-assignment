@@ -4,7 +4,11 @@ Github repository : https://github.com/manasvib112/wizz-assignment/
 
 # Project Deployment
 
-The project is deployed at the following url https://wizz-app-manasvi.web.app/
+The project is deployed at the following url https://wizz-app-manasvi.web.app/ll 
+
+# Install Dependencies
+
+To install the dependencies run the `npm install` command on terminal/powershell/bash
 
 # Getting Started with Create React App
 
